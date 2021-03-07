@@ -20,6 +20,7 @@
         background:#000000a1;
         text-align:center;
         display:none;
+        top:0;
     }
     #progresstitle{
         margin-top:15px;
